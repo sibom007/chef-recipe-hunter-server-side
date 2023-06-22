@@ -1,0 +1,153 @@
+[
+    {
+        "id": "1",
+        "name": "Sanjeev Kapoor",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india1.jpg",
+        "bio": "Sanjeev Kapoor is a renowned Indian celebrity chef, entrepreneur, and television personality. He is widely regarded as one of the most popular chefs in India, and has made significant contributions to the Indian culinary world.",
+        "recipi1": {
+            "name": "Butter Chicken",
+            "ingredients": "500g boneless chicken,1 cup yoghurt, 1 tbsp ginger paste, 1 tbsp garlic paste,1 tsp red chilli powder",
+            "cooking_method": "Marinate chicken with yoghurt, ginger paste, garlic paste, and chilli powder. Grill until cooked. For the gravy, heat butter and add onions, ginger-garlic paste, tomato puree, and spices. Cook until thickened. Add the grilled chicken to the gravy and cook for a few minutes. Serve hot.",
+            "rating": 4.5
+        },
+        "recipi2": {
+            "name": "Palak Paneer",
+            "ingredients": "1 bunch spinach,200g paneer,1 onion, 1 tsp ginger paste,1 tsp garlic paste",
+            "cooking_method": "Blanch spinach and blend into a puree. Heat oil and fry onions until golden brown. Add ginger-garlic paste and spices. Cook until fragrant. Add spinach puree and cook until thickened. Add paneer cubes and cook until heated through. Serve hot.",
+            "rating": 4.2
+        },
+        "recipi3": {
+            "name": "Chicken Biryani",
+            "ingredients": "500g chicken,2 cups basmati rice,1 onion,1 tsp ginger paste,1 tsp garlic paste",
+            "cooking_method": "Marinate chicken with yoghurt, ginger-garlic paste, and spices. Cook rice with spices and set aside. Fry onions until golden brown. Add chicken and cook until tender. Layer chicken and rice in a pot and cook on low heat for 15-20 minutes. Serve hot.",
+            "rating": 4.8
+        }
+    },
+    {
+        
+        "id": "2",
+        "name": "Vikas Khanna",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india2.jpg",
+        "bio": "Vikas Khanna is a highly acclaimed Indian-American Michelin-starred chef, restaurateur, cookbook author, filmmaker, and humanitarian. He is known for his innovative cooking style, which combines traditional Indian flavors with modern techniques.",
+        "recipi1": {
+            "name": "Chicken Tikka Masala",
+            "ingredients": "500g boneless chicken,1 cup yoghurt,1 onion,1 tbsp ginger paste,1 tbsp garlic paste",
+            "cooking_method": "Marinate chicken with yoghurt, ginger paste, garlic paste, and spices. Grill until cooked. For the gravy, heat butter and add onions, ginger-garlic paste, tomato puree, and spices. Cook until thickened. Add the grilled chicken to the gravy and cook for a few minutes. Serve hot.",
+            "rating": 4.7
+        },
+        "recipi2": {
+            "name": "Lamb Biryani",
+            "ingredients": "500g lamb,2 cups basmati rice,1 onion,1 tsp ginger paste,1 tsp garlic paste",
+            "cooking_method": "Marinate lamb with yoghurt, ginger-garlic paste, and spices. Cook rice with spices and set aside. Fry onions until golden brown. Add lamb and cook until tender. Layer lamb and rice in a pot and cook on low heat for 15-20 minutes. Serve hot.",
+            "rating": 4.5
+        },
+        "recipi3": {
+            "name": "Chana Masala",
+            "ingredients": "2 cups chickpeas,1 onion,1 tomato,1 tsp ginger paste,1 tsp garlic paste",
+            "cooking_method": "Soak chickpeas overnight. Boil until cooked. Fry onions until golden brown. Add ginger-garlic paste, tomato, and spices. Cook until thickened. Add chickpeas and cook for a few minutes. Serve hot.",
+            "rating": 4.2
+        }
+    },
+    {
+        "id": "3",
+        "name": "Ranveer Brar",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india3.jpg",
+        "bio":"Ranveer Brar is a popular Indian chef, television personality, and author. He is known for his innovative cooking style, which combines traditional Indian flavors with modern techniques.",
+        "recipi1": {
+            "name": "Butter Garlic Prawns",
+            "ingredients": "500g prawns,2 tbsp butter,1 tbsp garlic paste,1 tbsp lemon juice,1 tsp red chilli flakes",
+            "cooking_method": "Marinate prawns with garlic paste, lemon juice, and chilli flakes. Melt butter in a pan and add prawns. Cook until pink. Serve hot.",
+            "rating": 4.6
+        },
+        "recipi2": {
+            "name": "Rajasthani Laal Maas",
+            "ingredients": "500g lamb,2 onions,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp red chilli powder",
+            "cooking_method": "Heat oil and fry onions until golden brown. Add ginger-garlic paste and spices. Cook until fragrant. Add lamb and cook until tender. Serve hot.",
+            "rating": 4.3
+        },
+        "recipi3": {
+            "name": "Chole Bhature",
+            "ingredients": " 2 cups chickpeas,1 onion,1 tomato,1 tsp ginger paste,1 tsp garlic paste",
+            "cooking_method": "Soak chickpeas overnight. Boil until cooked. Fry onions until golden brown. Add ginger-garlic paste, tomato, and spices. Cook until thickened. Serve with deep-fried bread (bhature).",
+            "rating": 4.7
+        }
+    },
+    {
+        "id": "4",
+        "name": "Madhur Jaffrey",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india4.jpg",
+        "bio":"Madhur Jaffrey is a well-known Indian-born actress, author, and culinary expert. She is regarded as one of the foremost authorities on Indian cuisine, and has authored numerous cookbooks, including Madhur Jaffrey's Indian Cooking, Madhur Jaffrey's World Vegetarian, and At Home with Madhur Jaffrey.",
+        "recipi1": {
+            "name": "Butter Chicken",
+            "ingredients": "500g boneless chicken,1 cup yoghurt,1 onion,1 tbsp ginger paste,1 tbsp garlic paste",
+            "cooking_method": "Marinate chicken with yoghurt, ginger paste, garlic paste, and spices. Grill until cooked. For the gravy, heat butter and add onions, ginger-garlic paste, tomato puree, and spices. Cook until thickened. Add the grilled chicken to the gravy and cook for a few minutes. Serve hot.",
+            "rating": 4.8
+        },
+        "recipi2": {
+            "name": "Pav Bhaji",
+            "ingredients": " 2 potatoes,2 tomatoes,1 onion,1 capsicum,1 tsp ginger paste",
+            "cooking_method": "Boil and mash potatoes. Fry onions until golden brown. Add ginger paste, tomatoes, and capsicum. Cook until soft. Add mashed potatoes, spices, and butter. Cook until thickened. Serve with buttered buns (pav).",
+            "rating": 4.4
+        },
+        "recipi3": {
+            "name": "Rogan Josh",
+            "ingredients": " 500g lamb,2 onions,1 tbsp ginger paste,1 tbsp garlic paste,1 tsp red chilli powder",
+            "cooking_method": "Heat oil and fry onions until golden brown. Add ginger-garlic paste and spices. Cook until fragrant. Add lamb and cook until tender. Serve hot.",
+            "rating": 4.5
+        }
+    },
+    {
+        "id": "5",
+        "name": "Anjum Anand",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india5.jpg",
+        "bio": "Anjum Anand is a well-known Indian-born British chef, cookbook author, and television personality who specializes in healthy Indian cuisine. She is known for promoting a healthier version of traditional Indian dishes, using fresh, nutritious ingredients and low-fat cooking methods.",
+        "recipi1": {
+            "name": "Tandoori Chicken",
+            "ingredients": "1 whole chicken,1 cup plain yogurt,1 tbsp ginger paste,1 tbsp garlic paste,2 tsp red chili powder",
+            "cooking_method": "Marinate the chicken in the yogurt, ginger paste, garlic paste, red chili powder, and salt. Let it sit in the fridge for at least an hour. Preheat the oven to 400F. Place the chicken on a baking sheet and bake for about 45 minutes, until fully cooked. Serve hot.",
+            "rating": 4.5
+        },
+        "recipi2": {
+            "name": "Aloo Gobi",
+            "ingredients": "2 potatoes,1 cauliflower,1 onion,1 tbsp ginger paste,1 tbsp garlic paste",
+            "cooking_method": "Heat oil in a pan and add chopped onions. Cook until golden brown. Add ginger paste, garlic paste, and spices. Cook for 1-2 minutes. Add diced potatoes and cauliflower florets. Mix well and cook until tender. Serve hot.",
+            "rating": 4.2
+        },
+        "recipi3": {
+            "name": "Lamb Biryani",
+            "ingredients": " 500g lamb,2 cups basmati rice,1 onion,1 tbsp ginger paste,1 tbsp garlic paste",
+            "cooking_method": "Cook the rice and set it aside. Fry onions until golden brown. Add ginger paste, garlic paste, and spices. Cook until fragrant. Add lamb and cook until tender. Layer the cooked rice and lamb mixture in a pot. Cook on low heat for 15-20 minutes. Serve hot.",
+            "rating": 4.7
+        }
+    },
+    {
+        "id": "6",
+        "name": "Hari Nayak",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india6.jpg",
+        "bio":"Hari Nayak is a renowned Indian-born chef, author, and culinary consultant. He is known for his expertise in Indian cuisine and his innovative cooking style, which combines traditional Indian flavors with modern techniques.",
+        "recipi1": 
+        {
+            "name": "Chicken Tikka Masala",
+            "ingredients":"500g boneless chicken,1 cup plain yogurt,1 onion,1 tbsp ginger paste,1 tbsp garlic paste",
+            "cooking_method": "Marinate chicken in yogurt, ginger paste, garlic paste, and spices. Grill until cooked. For the gravy, heat butter in a pan and fry onions until golden brown. Add ginger-garlic paste, tomato puree, and spices. Cook until thickened. Add the grilled chicken to the gravy and cook for a few minutes. Serve hot.",
+            "rating": 4.5
+        },
+    "recipi2":
+        {
+            "name": "Lamb Vindaloo",
+            "ingredients":"500g lamb,1 onion,1 tsp ginger paste,1 tsp garlic paste,1 tsp cumin powder",
+            "cooking_method": "Heat oil in a pan and fry onions until golden brown. Add ginger-garlic paste, cumin powder, and spices. Cook until fragrant. Add lamb and cook until tender. Serve hot.",
+            "rating": 4.2
+           
+        },
+    
+
+    "recipi3": {
+            "name": "Masala Dosa",
+            "ingredients" :"1 cup rice flour,1/2 cup urad dal,1 onion,1 potato,1 tsp cumin seeds",
+            "cooking_method": "Soak rice flour and urad dal in water for 6-8 hours. Grind them into a smooth batter. Ferment the batter overnight. Heat a dosa tawa and spread the batter. Add a little oil and sprinkle cumin seeds. Add diced onions and potato. Cook until golden brown. Serve hot.",
+            "rating": 4.4
+            
+        }
+    }
+]

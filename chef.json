@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "name": "Sanjeev Kapoor",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india1.jpg",
+        "likes": {
+            "platform": "Instagram",
+            "likes": 2500000
+        },
+        "yearsOfExperience": 35,
+        "numRecipes": 10000
+    },
+    {
+        "id": "2",
+        "name": "Vikas Khanna",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india2.jpg",
+        "likes": {
+            "platform": "Instagram",
+            "likes": 1200000
+        },
+        "yearsOfExperience": 20,
+        "numRecipes": 600
+    },
+    {
+        "id": "3",
+        "name": "Ranveer Brar",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india3.jpg",
+        "likes": {
+            "platform": "Instagram",
+            "likes": 800000
+        },
+        "yearsOfExperience": 20,
+        "numRecipes": 1000
+    },
+    {
+        "id": "4",
+        "name": "Madhur Jaffrey",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india4.jpg",
+        "likes": {
+            "platform": "Instagram",
+            "likes": 25000
+        },
+        "yearsOfExperience": 60,
+        "numRecipes": 30
+    },
+    {
+        "id": "5",
+        "name": "Anjum Anand",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india5.jpg",
+        "likes": {
+            "platform": "Instagram",
+            "likes": 20000
+        },
+        "yearsOfExperience": 25,
+        "numRecipes": 400
+    },
+    {
+        "id": "6",
+        "name": "Hari Nayak",
+        "picture": "https://static.javatpoint.com/top10-technologies/images/top-10-chefs-in-india6.jpg",
+        "likes": {
+            "platform": "Instagram",
+            "likes": 40000
+        },
+        "yearsOfExperience": 30,
+        "numRecipes": 200
+    }
+]
